@@ -49,7 +49,7 @@ Here’s the breakdown:
 
 ## 📸 Screenshot  
 
-![Resume Builder App](public/resume.pdf)
+![Resume Builder App](public/resume.jpg)
 
 ---
 
