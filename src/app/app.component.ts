@@ -1,12 +1,12 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { EditableResumeComponent } from './components/editable-resume/editable-resume.component';
+import { DownloadComponent } from './components/download/download.component';
+import { ResumeComponent } from './components/resume/resume.component';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [EditableResumeComponent, DownloadComponent, ResumeComponent],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.scss'
+  styleUrl: './app.component.scss',
 })
-export class AppComponent {
-  title = 'resume-builder';
-}
+export class AppComponent {}
