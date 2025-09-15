@@ -47,6 +47,7 @@ Here’s the breakdown:
 
 ---
 
+
 ## 📸 Screenshot  
 
 ![Resume Builder App](public/resume.jpg)
@@ -54,8 +55,6 @@ Here’s the breakdown:
 ---
 
 ## 📁 Project Structure   
-
-
 
 ```
 src/
@@ -98,6 +97,7 @@ npm install
 ng serve
 ```
 
+
 Visit `http://localhost:4200` to see the custom directives in action.
 
 ---
@@ -105,5 +105,3 @@ Visit `http://localhost:4200` to see the custom directives in action.
 ## 🔗 Author
 Made with ❤️ by
 Muhammad Ahmad
-
-
