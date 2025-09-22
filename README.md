@@ -5,6 +5,7 @@ It lets you **edit personal details, skills, projects, and courses** in real-tim
 
 ---
 
+
 ## 🌐 Live Demo  
 
 👉 [Click here to view the app](https://ahmad-889.github.io/resume-builder/)
@@ -34,7 +35,6 @@ Here’s the breakdown:
 * ⬇️ **Download as PDF** with one click  
 * 📱 Fully responsive UI for desktop & mobile  
 * 🎨 Clean, minimal design  
-
 ---
 
 ## 🧱 Technologies Used  
@@ -56,7 +56,9 @@ Here’s the breakdown:
 
 ## 📁 Project Structure   
 
+
 ```
+
 src/
 └── app/
 ├── components/
@@ -82,6 +84,7 @@ src/
 
 ```
 
+
 ## 🚀 Running the Project
 
 Install Angular CLI if you haven't:
@@ -95,8 +98,8 @@ Install dependencies and serve:
 ```bash
 npm install
 ng serve
-```
 
+```
 
 Visit `http://localhost:4200` to see the custom directives in action.
 
@@ -105,3 +108,5 @@ Visit `http://localhost:4200` to see the custom directives in action.
 ## 🔗 Author
 Made with ❤️ by
 Muhammad Ahmad
+
+
